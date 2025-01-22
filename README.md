@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 FoodFire Server
 
 A FoodFire Server (Node.js web server) that fetches data from a third-party (Swiggy) API (Fix the CORS Issue) and exposes it to a client [🚀 FoodFire ](https://foodfire-app.netlify.app/) App 😍.
@@ -61,3 +62,6 @@ const response =  await fetch(`http://YourOwnServerName.onrender.com/api/restaur
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
+=======
+# FoodFire-Server
+>>>>>>> 4defd363a50b9e65a38b1c75b41f046b5851ea93
